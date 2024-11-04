@@ -1,5 +1,7 @@
 # 💫 About Me:
-i'm a full stack developer ,that is really intrested on ai and devOps<br>i'm currently studdeing 3rd year of university and am very eager to learn more about technologie,<br>i'm also intrested on meeting peaple that have the same intrestes<br>
+🎓 License in computer systems development and third-year engineering student at ESPRIT
+💻 Enthusiastic about web development, mobile development, and software security
+🌍 Based in Tunisia, open to opportunities worldwide
 
 
 ## 🌐 Socials:
