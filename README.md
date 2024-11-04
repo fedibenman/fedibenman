@@ -1,7 +1,7 @@
 # 💫 About Me:
-🎓 License in computer systems development and third-year engineering student at ESPRIT
-💻 Enthusiastic about web development, mobile development, and software security
-🌍 Based in Tunisia, open to opportunities worldwide
+🎓 License in computer systems development and third-year engineering student at ESPRIT</br>
+💻 Enthusiastic about web development, mobile development, and software security</br>
+🌍 Based in Tunisia, open to opportunities worldwide</br>
 
 
 ## 🌐 Socials:
